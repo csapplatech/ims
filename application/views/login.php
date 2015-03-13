@@ -28,7 +28,7 @@
 
 </head>
 <div class="navbar navbar-inverse navbar-static-top">
-    <a href = "#" class="navbar-brand">&nbsp;&nbsp;&nbsp;____________Title123 or Banner____________</a>
+    <a href = "#" class="navbar-brand">&nbsp;&nbsp;&nbsp;____________Title12345 or Banner____________</a>
                     <div class="container">
                         
                         <button class="navbar-toggle" data-toggle ="collapse" data-target=".navHeaderCollapse">
